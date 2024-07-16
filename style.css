@@ -3,6 +3,7 @@
   padding: 0;
   font-family: sans-serif;
 }
+
 .hastag-header {
   padding: 4rem;
   color: white;
@@ -23,6 +24,7 @@ h1{
 .hastag-header span{
   font-size: 2rem ;
 }
+
 .hastag-header img{
   width: 5rem;
   height: 5rem;
@@ -30,6 +32,7 @@ h1{
   border: 5PX solid white;
   border-radius: 50% ;
 }
+
 .hastag-header img+img{
   margin-left: -1rem;
 }
