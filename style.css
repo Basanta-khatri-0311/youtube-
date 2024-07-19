@@ -33,6 +33,13 @@ h1{
   border-radius: 50% ;
 }
 
-.hastag-header img+img{
+.hastag-header img{
   margin-left: -1rem;
+}
+
+.img-cont{
+  /* display: inline-block; */
+  display: flex;
+  justify-self: flex-end;
+  flex-direction: row-reverse;
 }
