@@ -30,7 +30,7 @@ h1{
   height: 5rem;
   vertical-align: middle;
   border: 5PX solid white;
-  border-radius: 50% ;
+  border-radius: 100% ;
 }
 
 .hastag-header img{
@@ -38,8 +38,9 @@ h1{
 }
 
 .img-cont{
-  /* display: inline-block; */
-  display: flex;
+  display: inline-flex;
   justify-self: flex-end;
   flex-direction: row-reverse;
+  vertical-align: middle;
+  margin-left: 32px;
 }
